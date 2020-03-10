@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/xoacoment/static/css/main.d1b05096.chunk.css",
+    "main.js": "/xoacoment/static/js/main.63966b8d.chunk.js",
+    "main.js.map": "/xoacoment/static/js/main.63966b8d.chunk.js.map",
+    "runtime-main.js": "/xoacoment/static/js/runtime-main.a92acbe3.js",
+    "runtime-main.js.map": "/xoacoment/static/js/runtime-main.a92acbe3.js.map",
+    "static/css/2.1bd2ab2f.chunk.css": "/xoacoment/static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.66c34e8e.chunk.js": "/xoacoment/static/js/2.66c34e8e.chunk.js",
+    "static/js/2.66c34e8e.chunk.js.map": "/xoacoment/static/js/2.66c34e8e.chunk.js.map",
+    "index.html": "/xoacoment/index.html",
+    "precache-manifest.44964d90b4c661c317d7cc67bab88a2a.js": "/xoacoment/precache-manifest.44964d90b4c661c317d7cc67bab88a2a.js",
+    "service-worker.js": "/xoacoment/service-worker.js",
+    "static/css/2.1bd2ab2f.chunk.css.map": "/xoacoment/static/css/2.1bd2ab2f.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/xoacoment/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.66c34e8e.chunk.js.LICENSE.txt": "/xoacoment/static/js/2.66c34e8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a92acbe3.js",
+    "static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.66c34e8e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.63966b8d.chunk.js"
+  ]
+}
