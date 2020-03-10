@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65f3f3c4857fbf2327d0feeaedf6147c",
+    "revision": "d2a369f1e87610e5a81c1b27ece90ef9",
     "url": "/xoacoment/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/xoacoment/static/css/2.1bd2ab2f.chunk.css"
   },
   {
-    "revision": "b849e9415ac84eba589d",
+    "revision": "b96631e5350a2aa07f18",
     "url": "/xoacoment/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/xoacoment/static/js/2.8757badf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b849e9415ac84eba589d",
-    "url": "/xoacoment/static/js/main.b30644f1.chunk.js"
+    "revision": "b96631e5350a2aa07f18",
+    "url": "/xoacoment/static/js/main.ffe089e7.chunk.js"
   },
   {
     "revision": "bdb394d15b3c8e510d15",
