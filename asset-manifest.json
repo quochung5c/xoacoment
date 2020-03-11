@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1b05096.chunk.css",
-    "main.js": "/static/js/main.66adcc3e.chunk.js",
-    "main.js.map": "/static/js/main.66adcc3e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e2fb23fb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e2fb23fb.js.map",
-    "static/css/2.1bd2ab2f.chunk.css": "/static/css/2.1bd2ab2f.chunk.css",
-    "static/js/2.5f684535.chunk.js": "/static/js/2.5f684535.chunk.js",
-    "static/js/2.5f684535.chunk.js.map": "/static/js/2.5f684535.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5ad5fb0b82f8d5802966c5e9730d68cf.js": "/precache-manifest.5ad5fb0b82f8d5802966c5e9730d68cf.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.1bd2ab2f.chunk.css.map": "/static/css/2.1bd2ab2f.chunk.css.map",
-    "static/css/main.d1b05096.chunk.css.map": "/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.5f684535.chunk.js.LICENSE.txt": "/static/js/2.5f684535.chunk.js.LICENSE.txt"
+    "main.css": "/xoacoment/static/css/main.d1b05096.chunk.css",
+    "main.js": "/xoacoment/static/js/main.5433c447.chunk.js",
+    "main.js.map": "/xoacoment/static/js/main.5433c447.chunk.js.map",
+    "runtime-main.js": "/xoacoment/static/js/runtime-main.a92acbe3.js",
+    "runtime-main.js.map": "/xoacoment/static/js/runtime-main.a92acbe3.js.map",
+    "static/css/2.1bd2ab2f.chunk.css": "/xoacoment/static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.bac90b59.chunk.js": "/xoacoment/static/js/2.bac90b59.chunk.js",
+    "static/js/2.bac90b59.chunk.js.map": "/xoacoment/static/js/2.bac90b59.chunk.js.map",
+    "index.html": "/xoacoment/index.html",
+    "precache-manifest.742b6d2ced67274222f9704454c6b357.js": "/xoacoment/precache-manifest.742b6d2ced67274222f9704454c6b357.js",
+    "service-worker.js": "/xoacoment/service-worker.js",
+    "static/css/2.1bd2ab2f.chunk.css.map": "/xoacoment/static/css/2.1bd2ab2f.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/xoacoment/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bac90b59.chunk.js.LICENSE.txt": "/xoacoment/static/js/2.bac90b59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2fb23fb.js",
+    "static/js/runtime-main.a92acbe3.js",
     "static/css/2.1bd2ab2f.chunk.css",
-    "static/js/2.5f684535.chunk.js",
+    "static/js/2.bac90b59.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.66adcc3e.chunk.js"
+    "static/js/main.5433c447.chunk.js"
   ]
 }
