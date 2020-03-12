@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89f116f4e6197c75ddc10eaeaa96b54d",
+    "revision": "9a1d6f3d32d80f675bb84134c2593e9b",
     "url": "/xoacoment/index.html"
   },
   {
-    "revision": "46d4b71191d9a9b8f112",
+    "revision": "1599d73555784676d9cc",
     "url": "/xoacoment/static/css/2.1bd2ab2f.chunk.css"
   },
   {
-    "revision": "c82e01cfd9f467fe79a9",
+    "revision": "b4d21d8deca86ecab0a6",
     "url": "/xoacoment/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "46d4b71191d9a9b8f112",
-    "url": "/xoacoment/static/js/2.3d9e20bb.chunk.js"
+    "revision": "1599d73555784676d9cc",
+    "url": "/xoacoment/static/js/2.7eb321c8.chunk.js"
   },
   {
     "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/xoacoment/static/js/2.3d9e20bb.chunk.js.LICENSE.txt"
+    "url": "/xoacoment/static/js/2.7eb321c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c82e01cfd9f467fe79a9",
-    "url": "/xoacoment/static/js/main.d76ae625.chunk.js"
+    "revision": "b4d21d8deca86ecab0a6",
+    "url": "/xoacoment/static/js/main.4982e1f5.chunk.js"
   },
   {
     "revision": "bdb394d15b3c8e510d15",

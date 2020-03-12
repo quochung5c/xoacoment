@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/xoacoment/precache-manifest.a7af86d7b58af865cf8ca517484c20dd.js"
+  "/xoacoment/precache-manifest.55c626aed746ca2ac013a3b0e554d66c.js"
 );
 
 self.addEventListener('message', (event) => {
