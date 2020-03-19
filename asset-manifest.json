@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/xoacoment/static/css/main.d1b05096.chunk.css",
-    "main.js": "/xoacoment/static/js/main.ef321312.chunk.js",
-    "main.js.map": "/xoacoment/static/js/main.ef321312.chunk.js.map",
+    "main.js": "/xoacoment/static/js/main.f866f355.chunk.js",
+    "main.js.map": "/xoacoment/static/js/main.f866f355.chunk.js.map",
     "runtime-main.js": "/xoacoment/static/js/runtime-main.a92acbe3.js",
     "runtime-main.js.map": "/xoacoment/static/js/runtime-main.a92acbe3.js.map",
     "static/css/2.1bd2ab2f.chunk.css": "/xoacoment/static/css/2.1bd2ab2f.chunk.css",
     "static/js/2.e40db113.chunk.js": "/xoacoment/static/js/2.e40db113.chunk.js",
     "static/js/2.e40db113.chunk.js.map": "/xoacoment/static/js/2.e40db113.chunk.js.map",
     "index.html": "/xoacoment/index.html",
-    "precache-manifest.e7f4b1576afcbffee7a5a3f4eceace55.js": "/xoacoment/precache-manifest.e7f4b1576afcbffee7a5a3f4eceace55.js",
+    "precache-manifest.221f3875f45487a1670fda80167ad683.js": "/xoacoment/precache-manifest.221f3875f45487a1670fda80167ad683.js",
     "service-worker.js": "/xoacoment/service-worker.js",
     "static/css/2.1bd2ab2f.chunk.css.map": "/xoacoment/static/css/2.1bd2ab2f.chunk.css.map",
     "static/css/main.d1b05096.chunk.css.map": "/xoacoment/static/css/main.d1b05096.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.1bd2ab2f.chunk.css",
     "static/js/2.e40db113.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.ef321312.chunk.js"
+    "static/js/main.f866f355.chunk.js"
   ]
 }
